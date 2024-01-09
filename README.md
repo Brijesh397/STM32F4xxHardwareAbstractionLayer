@@ -16,3 +16,5 @@ It also contains Libraries to:
 * To Configure the Systick :
    * To implement a Timeout Feature
    * To implement delay function
+
+I have created this project as a learning process to understand the various peripherals and communication protocols at the register level.
