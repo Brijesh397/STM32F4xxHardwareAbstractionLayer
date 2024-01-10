@@ -7,7 +7,6 @@
  * GPIO
  * SPI
  * UART
- * I2C
 
 It also contains Libraries to:
 * Configure the system clock
